@@ -1,4 +1,4 @@
-public class k10{
+public class K10{
     public static void main(String[] args){
 	int num1=3;
 	String info1="";
