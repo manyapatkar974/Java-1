@@ -1,4 +1,4 @@
-public class k1{
+public class K1{
     public static void main(String[] args){
         int n1=8;
 	int n2=4;
