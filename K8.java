@@ -1,4 +1,4 @@
-public class k8{
+public class K8{
     public static void main(String[] args){
 	int num1=3;
 	String info1="";
