@@ -1,4 +1,4 @@
-public class k4{
+public class K4{
     public static void main(String[] args){
 	char ch1, ch2;
 	ch1 = 88;
